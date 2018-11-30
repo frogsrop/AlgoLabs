@@ -1,0 +1,16 @@
+insert 0
+insert 7
+insert 1
+insert 14
+insert 21
+insert 8
+delete 14
+delete 1
+exists 0
+exists 7
+exists 1
+exists 14
+exists 21
+exists 8
+
+

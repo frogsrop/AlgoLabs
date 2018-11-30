@@ -1,0 +1,6 @@
+put a a
+put b b 
+put a a
+put a b
+next b 
+prev b
